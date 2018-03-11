@@ -4,9 +4,9 @@
 > Conception and realization of a video game of fight, in the line Street Fighter In 2D, entirely specified according to the method Design-by-Contract
 
 ## Login window
-![UPMC](Login.png)
+![Login](Login.png)
 
 ## Play window
-![UPMC](Play.png)
+![Play](Play.png)
 
 ![UPMC](logo_upmc.png)
